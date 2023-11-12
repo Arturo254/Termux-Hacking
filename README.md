@@ -1,3 +1,7 @@
+![portada](https://github.com/Arturo254/Termux-Hacking/assets/87346871/4e721b44-9a30-4351-bf38-039ef54822cb)
+
+
+### Dev by Arturo Cervantes (Arturo254)
 # Que hacer despues de instalar termux
 
 ### primero que nada ¿que es termux?
