@@ -6,7 +6,7 @@
 
 ### primero que nada ¿que es termux?
 
-__Termux es un emulador de terminal linux con paquetes , esta basada en debian , utilizando apt para instalar paquetes __
+__Termux es un emulador de terminal linux con paquetes , esta basada en debian , utilizando apt para instalar paquetes__
 
 ---
 
